@@ -1,5 +1,5 @@
 # daily_dose_of_solana
-repo for soloana projects and learnings
+repo for solana projects and learnings
 
 1. soloana_air_drop
     - creating a solana wallet account
